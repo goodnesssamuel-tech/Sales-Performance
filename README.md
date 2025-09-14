@@ -61,7 +61,7 @@ Interactive filtering by Central, East, South, and West regions allows nuanced a
 
 ### Visualization
 
-<img width="986" height="446" alt="Screenshot 2025-07-15 205025" src="https://github.com/user-attachments/assets/5f507c04-bfda-467a-82d2-c6b517253c0d" />
+<img width="984" height="452" alt="image" src="https://github.com/user-attachments/assets/572980af-9aec-4c97-9456-3b05e808de97" />
 
 ---
 
